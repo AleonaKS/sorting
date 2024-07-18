@@ -1,0 +1,37 @@
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/obj/Debug/dz.csprojAssemblyReference.cache
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/obj/Debug/dz.Form1.resources
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/obj/Debug/dz.Properties.Resources.resources
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/obj/Debug/dz.csproj.GenerateResource.cache
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/obj/Debug/dz.csproj.CoreCompileInputs.cache
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/bin/Debug/dz.exe.config
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/bin/Debug/dz.exe
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/bin/Debug/dz.pdb
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/obj/Debug/dz.exe
+C:/Users/minh5/OneDrive/Máy tính/Test-C#/dz/dz/obj/Debug/dz.pdb
+C:/Users/Admin/Desktop/dz/dz/bin/Debug/dz.exe.config
+C:/Users/Admin/Desktop/dz/dz/bin/Debug/dz.exe
+C:/Users/Admin/Desktop/dz/dz/bin/Debug/dz.pdb
+C:/Users/Admin/Desktop/dz/dz/obj/Debug/dz.csprojAssemblyReference.cache
+C:/Users/Admin/Desktop/dz/dz/obj/Debug/dz.Form1.resources
+C:/Users/Admin/Desktop/dz/dz/obj/Debug/dz.Properties.Resources.resources
+C:/Users/Admin/Desktop/dz/dz/obj/Debug/dz.csproj.GenerateResource.cache
+C:/Users/Admin/Desktop/dz/dz/obj/Debug/dz.csproj.CoreCompileInputs.cache
+C:/Users/Admin/Desktop/dz/dz/obj/Debug/dz.exe
+C:/Users/Admin/Desktop/dz/dz/obj/Debug/dz.pdb
+C:/Users/Алена/source/repos/dz/dz/bin/Debug/dz.exe.config
+C:/Users/Алена/source/repos/dz/dz/bin/Debug/dz.exe
+C:/Users/Алена/source/repos/dz/dz/bin/Debug/dz.pdb
+C:/Users/Алена/source/repos/dz/dz/obj/Debug/dz.csprojAssemblyReference.cache
+C:/Users/Алена/source/repos/dz/dz/obj/Debug/dz.Form1.resources
+C:/Users/Алена/source/repos/dz/dz/obj/Debug/dz.Properties.Resources.resources
+C:/Users/Алена/source/repos/dz/dz/obj/Debug/dz.csproj.GenerateResource.cache
+C:/Users/Алена/source/repos/dz/dz/obj/Debug/dz.csproj.CoreCompileInputs.cache
+C:/Users/Алена/source/repos/dz/dz/obj/Debug/dz.exe
+C:/Users/Алена/source/repos/dz/dz/obj/Debug/dz.pdb
+/Volumes/Transcend/дз/dz/dz/obj/Debug/dz.csproj.AssemblyReference.cache
+/Volumes/Transcend/дз/dz/dz/obj/Debug/dz.Form1.resources
+/Volumes/Transcend/дз/dz/dz/obj/Debug/dz.Properties.Resources.resources
+/Volumes/Transcend/дз/dz/dz/obj/Debug/dz.csproj.GenerateResource.cache
+/Volumes/Transcend/дз/dz/dz/obj/Debug/dz.csproj.CoreCompileInputs.cache
+/Volumes/Transcend/дз/dz/dz/obj/Debug/dz.exe
+/Volumes/Transcend/дз/dz/dz/obj/Debug/dz.pdb
